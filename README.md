@@ -2,8 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
-
+<h3> 👨🏻💻 About Me </h3>
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -16,20 +15,13 @@
 
 
 
-- 💻 &nbsp; PHP | JavaScript | MySQL
+- 💻 &nbsp; PHP | JavaScript | MySQL | MERN Stack
 
 - 🌐 &nbsp; HTML | CSS  | Node | ReactJS
 
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB | SQL Server
 
-- 🔧 &nbsp; Git | Markdown 
-
-- 🖥 &nbsp; Illustrator| Photoshop | Figma
-
--->
-
+<h3> 💻 More Information </h3>
 
 ```js
 import FrontendDeveloper from 'jesusdev';
