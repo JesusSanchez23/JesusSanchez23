@@ -1,5 +1,35 @@
 ### Hi I'm Jesus 👋💻
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🌱 &nbsp; Learning about Web3 and Blockchain.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; PHP | JavaScript | MySQL
+
+- 🌐 &nbsp; HTML | CSS  | Node | ReactJS
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB | SQL Server
+
+- 🔧 &nbsp; Git | Markdown 
+
+- 🖥 &nbsp; Illustrator| Photoshop | Figma
+
+-->
+
 
 ```js
 import FrontendDeveloper from 'jesusdev';
