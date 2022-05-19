@@ -15,7 +15,7 @@
 
 
 
-- 💻 &nbsp; PHP | JavaScript | MySQL | MERN Stack
+- 💻 &nbsp; PHP | JavaScript | MySQL | MongoDB | MERN Stack
 
 - 🌐 &nbsp; HTML | CSS  | Node | ReactJS
 
