@@ -19,6 +19,8 @@
 
 - 🌐 &nbsp; HTML | CSS  | Node | ReactJS
 
+-  💻 &nbsp; Go | .NET | Kafka | Docker | Kubernetes
+
 
 
 <h3> 💻 More Information </h3>
@@ -28,15 +30,16 @@ import FrontendDeveloper from 'jesusdev';
 
 class Bio extends FrontendDeveloper {
   name     = 'Jesus Sanchez';
-  title    = 'FrontEnd Developer';
+  title    = 'FullStack Developer';
   company  = 'Open to Work';
   location = 'Queretaro, MX';
 }
 
 class Skills extends FrontendDeveloper {
   languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'SQL Server'];
+  databases  = ['MySQL', 'MongoDB', 'SQL Server', 'Postgres'];
   frameworks = ['React', 'Node'];
+  others = ['Golang', 'Docker', 'Kafka', 'Kubernetes', '.NET'];
 }
 ```
 
