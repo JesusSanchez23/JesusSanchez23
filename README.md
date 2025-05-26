@@ -35,7 +35,7 @@ class Bio extends FullStackDeveloper {
   location = 'Queretaro, MX';
 }
 
-class Skills extends FrontendDeveloper {
+class Skills extends FullStackDeveloper {
   languages  = ['JavaScript', 'PHP'];
   databases  = ['MySQL', 'MongoDB', 'SQL Server', 'Postgres'];
   frameworks = ['React', 'Node'];
