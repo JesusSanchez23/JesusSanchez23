@@ -26,9 +26,9 @@
 <h3> 💻 More Information </h3>
 
 ```js
-import FrontendDeveloper from 'jesusdev';
+import FullStackDeveloper from 'jesusdev';
 
-class Bio extends FrontendDeveloper {
+class Bio extends FullStackDeveloper {
   name     = 'Jesus Sanchez';
   title    = 'FullStack Developer';
   company  = 'Open to Work';
